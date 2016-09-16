@@ -1,0 +1,30 @@
+INFO - ########## valuebond_subtheme_setup.sh started ##########
+INFO - /var/www/html//scripts/SUBTHEME_SETUP/pid/valuebond_subtheme_setup.sh.pid created with PID 8934
+INFO - The Path /var/www/html//d8/themes exist in the Server. Proceed to check further
+INFO - The Path /var/www/html//d8/themes/bootstrap exist in the Server. Proceed to check further
+INFO - The Path /var/www/html//d8/themes/bootstrap/starterkits exist in the Server. Proceed to check further
+INFO - Checking now the Starterkit Diretory Configuration files
+INFO - Starterkit Directory Configuration file found
+INFO - Configuration loaded successfully
+INFO - Directory cdn exist in Path /var/www/html//d8/themes/bootstrap/starterkits
+INFO - Directory less exist in Path /var/www/html//d8/themes/bootstrap/starterkits
+INFO - Directory sass exist in Path /var/www/html//d8/themes/bootstrap/starterkits
+INFO - Entered Directory Name cdn Exist
+INFO - Entered Directory cdn will be copy to themes directory:Please Wait....... 
+INFO - Copy command sucessful:cdn directory copied to themes directory
+INFO - Project Configuration file found
+INFO - Configuration loaded successfully
+INFO - File THEMENAME.theme found in /var/www/html//themes/cdn
+INFO - File THEMENAME.libraries.yml found in /var/www/html//themes/cdn
+INFO - File THEMENAME.starterkit.yml found in /var/www/html//themes/cdn
+INFO - File THEMENAME.settings.yml found in /var/www/html//themes/cdn
+INFO - File THEMENAME.schema.yml found in /var/www/html//themes/cdn
+INFO - Renaming the Directory cdn to ujala
+INFO - Renaming the Directory cdn to ujala successful
+INFO - Renaming now the Project specific Configuration files
+INFO - Renaming th Project specific Configuration files successful
+INFO  - Editing the /var/www/html//d8/themes/ujala/ujala.info.yml with Project Specific Name
+INFO - File Name /var/www/html//d8/themes/ujala/ujala.info.yml Edited successfully
+INFO - /var/www/html//scripts/SUBTHEME_SETUP/pid/valuebond_subtheme_setup.sh.pid removed
+INFO - ########## valuebond_subtheme_setup.sh stopped ##########
+INFO - Program valuebond_subtheme_setup.sh terminates with status 0.
